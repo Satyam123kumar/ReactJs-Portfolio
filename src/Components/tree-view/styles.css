@@ -1,0 +1,10 @@
+.main-container{
+    /* display:flex; */
+    background-color: rgb(187, 187, 201);
+    height: 100vh;
+    width: 350px;
+}
+
+.menu-item-container{
+    list-style: none;
+}
